@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ConsoleSmsApp/ConsoleSmsApp.csproj" Id="3e2b2679-35c6-4e97-9130-573e470464f6" />
+  <Project Path="SmsGRPCLib/SmsGRPCLib.csproj" Id="5d299e30-87f2-4af0-8b89-c67993ca421b" />
+  <Project Path="SmsLib/SmsLib.csproj" Id="e67f8e02-f5c1-4ef1-af2f-8f35f31f1445" />
+  <Project Path="ServerConsoleSmsApp/ServerConsoleSmsApp.csproj" Id="b232f024-eecf-43e0-863f-d574ae35374b" />
+  <Project Path="WpfSmsApp/WpfSmsApp.csproj" />
+</Solution>
